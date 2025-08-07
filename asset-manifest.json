@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mal3v14/react-marvel-db/static/css/main.5949eff8.css",
-    "main.js": "/mal3v14/react-marvel-db/static/js/main.d5fa13a4.js",
-    "static/media/vision.png": "/mal3v14/react-marvel-db/static/media/vision.067d4ae1936d64a577ce.png",
-    "static/media/mjolnir.png": "/mal3v14/react-marvel-db/static/media/mjolnir.61f31e1809f12183a524.png",
-    "static/media/error.gif": "/mal3v14/react-marvel-db/static/media/error.42292aa12b6bc303ce99.gif",
-    "index.html": "/mal3v14/react-marvel-db/index.html",
-    "main.5949eff8.css.map": "/mal3v14/react-marvel-db/static/css/main.5949eff8.css.map",
-    "main.d5fa13a4.js.map": "/mal3v14/react-marvel-db/static/js/main.d5fa13a4.js.map"
+    "main.css": "/react-marvel-db/static/css/main.5949eff8.css",
+    "main.js": "/react-marvel-db/static/js/main.526067f5.js",
+    "static/media/vision.png": "/react-marvel-db/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/react-marvel-db/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/react-marvel-db/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/react-marvel-db/index.html",
+    "main.5949eff8.css.map": "/react-marvel-db/static/css/main.5949eff8.css.map",
+    "main.526067f5.js.map": "/react-marvel-db/static/js/main.526067f5.js.map"
   },
   "entrypoints": [
     "static/css/main.5949eff8.css",
-    "static/js/main.d5fa13a4.js"
+    "static/js/main.526067f5.js"
   ]
 }
