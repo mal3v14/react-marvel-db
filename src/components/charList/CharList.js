@@ -30,7 +30,7 @@ const CharList = (props) => {
 
     const onCharListLoaded = (newCharList) => {
         let ended = false;
-        if (newCharList.length < 9) {
+        if (newCharList.length < 8) {
             ended = true;
         }
 
